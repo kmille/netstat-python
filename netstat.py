@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import arrow
 import psutil
 from psutil import Process

@@ -1,4 +1,4 @@
-name: Run python teste
+name: Run python tests
 
 on: [push]
 
