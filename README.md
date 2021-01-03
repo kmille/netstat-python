@@ -1,5 +1,7 @@
 # simple netstat in python
 
+![my first Github action example](https://github.com/kmille/netstat-python/workflows/First%20example/badge.svg) ![playing with pytest](https://github.com/kmille/netstat-python/workflows/Run%20python%20tests/badge.svg) ![latest tag](https://img.shields.io/github/v/tag/kmille/netstat-python?sort=semver) ![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)
+
 ## install
 
 ```bash
